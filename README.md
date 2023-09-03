@@ -14,7 +14,7 @@ This projects implements a simple version of the Hangman game in Python
 
 
 
-###### Features <a [Features](#features)="features"></a>
+###### Features <a name="features"></a>
   * randomly selects a word
   * allows player to guess the word
   * check incorrect guesses and tracks how many attempts are left
